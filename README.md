@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-## Работаю с:
+Python Developer
+
+## Использую технологии:
 
 Python
 
@@ -15,6 +17,10 @@ UnitTest Pytest
 Ubuntu Docker Nginx Gunicorn
 
 HTML CSS Bootstrap
+
+## Сейчас работаю над:
+
+https://github.com/Krasikoff/begin_with_yourself_bot_2
 
 <!--
 **Krasikoff/Krasikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
