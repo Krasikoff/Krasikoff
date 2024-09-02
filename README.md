@@ -4,19 +4,19 @@ Python Developer
 
 ## Использую технологии:
 
-Python
+* Python
 
-Django DjangoREST FastAPI Flask  Pydantic SQLAlchemy
+* Django DjangoREST FastAPI Flask  Pydantic SQLAlchemy
 
-Postgres SQLite MySQL
+* Postgres SQLite MySQL
 
-aiogram Aiogoogle Scrapy
+* aiogram Aiogoogle Scrapy
 
-UnitTest Pytest
+* UnitTest Pytest
 
-Ubuntu Docker Nginx Gunicorn
+* Ubuntu Docker Nginx Gunicorn
 
-HTML CSS Bootstrap
+* HTML CSS Bootstrap
 
 ## Сейчас работаю над:
 
