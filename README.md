@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+## Работаю с:
+
+Python
+
+Django DjangoREST FastAPI Flask  Pydantic SQLAlchemy
+
+Postgres SQLite MySQL
+
+aiogram Aiogoogle Scrapy
+
+UnitTest Pytest
+
+Ubuntu Docker Nginx Gunicorn
+
+HTML CSS Bootstrap
+
 <!--
 **Krasikoff/Krasikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
