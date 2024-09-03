@@ -5,6 +5,8 @@ Python Developer
 ## Использую технологии:
 
 ![](https://img.shields.io/badge/Python-Version:_3.10.13-blue?logo=python&style=plastic)
+![](https://img.shields.io/badge/django-8A2BE2?logo=python&style=plastic)
+
 
 * Python
 
