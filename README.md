@@ -1,30 +1,3 @@
-## Всем привет! 👋
-
-Python Developer
-
-## Использую технологии:
-
-![](https://img.shields.io/badge/Python-Version:_3.10.13-blue?logo=python&style=plastic)
-![](https://img.shields.io/badge/django-8A2BE2?logo=python&style=plastic)
-
-
-* Python
-
-* Django DjangoREST FastAPI Flask  Pydantic SQLAlchemy
-
-* Postgres SQLite MySQL
-
-* aiogram Aiogoogle Scrapy
-
-* UnitTest Pytest
-
-* Ubuntu Docker Nginx Gunicorn
-
-* HTML CSS Bootstrap
-
-## Сейчас работаю над:
-
-https://github.com/Krasikoff/begin_with_yourself_bot_2
 
 <!--
 **Krasikoff/Krasikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,3 +13,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Всем привет! 👋
+
+Python Developer
+
+## Использую технологии:
+
+![](https://img.shields.io/badge/Python-Version:_3.10.13-blue?logo=python&style=plastic) (последняя используемая мной версия)
+
+![](https://img.shields.io/badge/Django-006600?logo=python&style=plastic)
+![](https://img.shields.io/badge/DRF-006600?logo=python&style=plastic)
+![](https://img.shields.io/badge/FastAPI-009900?logo=python&style=plastic)
+![](https://img.shields.io/badge/Flask-00CCFF?logo=python&style=plastic)
+![](https://img.shields.io/badge/Pydantic-CCCCCC?logo=python&style=plastic)
+![](https://img.shields.io/badge/SQLAlchemy-CCCC99?logo=python&style=plastic)
+
+![](https://img.shields.io/badge/Aiogram-blue?logo=fastapi&style=plastic)
+![](https://img.shields.io/badge/Aiogoogle-red?logo=python&style=plastic)
+![](https://img.shields.io/badge/Scrapy-yellow?logo=python&style=plastic)
+
+![](https://img.shields.io/badge/UnitTest-grey?logo=python&style=plastic)
+![](https://img.shields.io/badge/Pytest-black?logo=python&style=plastic)
+
+![](https://img.shields.io/badge/Ubuntu-FF6600?logo=python&style=plastic)
+![](https://img.shields.io/badge/Docker-blue?logo=python&style=plastic)
+![](https://img.shields.io/badge/Nginx-333333?logo=python&style=plastic)
+![](https://img.shields.io/badge/Gunicorn-009900?logo=python&style=plastic)
+
+![](https://img.shields.io/badge/HTML-FF3300?logo=python&style=plastic)
+![](https://img.shields.io/badge/CSS-white?logo=python&style=plastic)
+![](https://img.shields.io/badge/Bootstrap-0033FF?logo=python&style=plastic)
+
+
+## Сейчас работаю над:
+
+https://github.com/Krasikoff/begin_with_yourself_bot_2
+
+## to be continued ...
+
+(наполнение содержимым еще не закончено)
+
