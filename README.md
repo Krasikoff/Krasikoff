@@ -4,6 +4,8 @@ Python Developer
 
 ## Использую технологии:
 
+![](https://img.shields.io/badge/Python-Version:_3.10.13-blue?logo=python&style=plastic)
+
 * Python
 
 * Django DjangoREST FastAPI Flask  Pydantic SQLAlchemy
