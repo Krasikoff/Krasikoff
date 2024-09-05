@@ -48,7 +48,7 @@ Python Developer
 
 ## Сейчас работаю над:
 
-https://github.com/Krasikoff/begin_with_yourself_bot_2
+https://github.com/Krasikoff/begin_with_yourself_bot
 
 ## to be continued ...
 
