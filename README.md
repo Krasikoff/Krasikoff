@@ -46,7 +46,7 @@ Python Developer
 ![](https://img.shields.io/badge/Bootstrap-0033FF?logo=python&style=plastic)
 
 
-## Сейчас работаю над:
+## Сейчас работаю над (в процессе сдачи):
 
 https://github.com/Krasikoff/begin_with_yourself_bot
 
