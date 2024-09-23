@@ -45,10 +45,13 @@ Python Developer
 ![](https://img.shields.io/badge/CSS-white?logo=python&style=plastic)
 ![](https://img.shields.io/badge/Bootstrap-0033FF?logo=python&style=plastic)
 
-
-## Сейчас работаю над (в процессе сдачи):
+## Предыдущий проект:
 
 https://github.com/Krasikoff/begin_with_yourself_bot
+
+## Сейчас работаю над:
+
+  Добавить функционал с аналитикой d тг бот компании qtech и развернуть проект на сервере.
 
 ## to be continued ...
 
