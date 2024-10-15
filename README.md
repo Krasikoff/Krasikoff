@@ -28,6 +28,7 @@ Python Developer
 ![](https://img.shields.io/badge/Flask-00CCFF?logo=python&style=plastic)
 ![](https://img.shields.io/badge/Pydantic-CCCCCC?logo=python&style=plastic)
 ![](https://img.shields.io/badge/SQLAlchemy-CCCC99?logo=python&style=plastic)
+![](https://img.shields.io/badge/Postgresql-black?logo=python&style=plastic)
 
 ![](https://img.shields.io/badge/Aiogram-blue?logo=fastapi&style=plastic)
 ![](https://img.shields.io/badge/Aiogoogle-red?logo=python&style=plastic)
