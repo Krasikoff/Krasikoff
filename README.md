@@ -46,13 +46,22 @@ Python Developer
 ![](https://img.shields.io/badge/CSS-white?logo=python&style=plastic)
 ![](https://img.shields.io/badge/Bootstrap-0033FF?logo=python&style=plastic)
 
-## Предыдущий проект:
 
+## Предыдущие проекты:
+
+фитнес-бот: 
 https://github.com/Krasikoff/begin_with_yourself_bot
+
+Добавить функционал аналитики в тг-бот компании qtech и развернуть проект на сервере.
+https://github.com/Krasikoff/...
+
+mvp проект для Росбанка:
+https://github.com/Krasikoff/Starsmap
 
 ## Сейчас работаю над:
 
-  Добавить функционал с аналитикой в тг бот компании qtech и развернуть проект на сервере.
+развитие fork-а фитнесбота.
+  
 
 ## to be continued ...
 
