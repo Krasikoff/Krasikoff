@@ -60,7 +60,7 @@ https://github.com/Krasikoff/Starsmap
 
 ## Сейчас работаю над:
 
-развитие fork-а фитнесбота.
+развитие fork-а фитнес-бота.
   
 
 ## to be continued ...
