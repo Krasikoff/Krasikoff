@@ -41,6 +41,7 @@ Python Developer
 ![](https://img.shields.io/badge/Docker-blue?logo=python&style=plastic)
 ![](https://img.shields.io/badge/Nginx-333333?logo=python&style=plastic)
 ![](https://img.shields.io/badge/Gunicorn-009900?logo=python&style=plastic)
+![](https://img.shields.io/badge/Uvicorn-005500?logo=python&style=plastic)
 
 ![](https://img.shields.io/badge/HTML-FF3300?logo=python&style=plastic)
 ![](https://img.shields.io/badge/CSS-white?logo=python&style=plastic)
