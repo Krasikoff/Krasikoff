@@ -62,6 +62,7 @@ https://github.com/Krasikoff/Starsmap
 ## Сейчас работаю над:
 
 Участвую в проекте fork-а фитнес-бота.
+
 Участвую в проекте компании vink по парсингу (scrapy) сайтов конкурентов. https://github.com/Vink-Masterskaya/vink-master/tree/develop. Выполнил парсинг 4 сайтов. В одном из них пришлось парсить через api(Laravel CMS).
   
 
