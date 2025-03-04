@@ -59,6 +59,8 @@ https://github.com/Krasikoff/...
 mvp проект для Росбанка:
 https://github.com/Krasikoff/Starsmap
 
+and more...
+
 ## Сейчас работаю над:
 
 Участвую в проекте fork-а фитнес-бота.
