@@ -50,14 +50,16 @@ Python Developer
 
 ## Предыдущие проекты:
 
-фитнес-бот: 
-https://github.com/Krasikoff/begin_with_yourself_bot
-
-Добавить функционал аналитики в тг-бот компании qtech и развернуть проект на сервере.
-https://github.com/Krasikoff/...
+проект компании vink по парсингу (scrapy) сайтов конкурентов. https://github.com/Vink-Masterskaya/vink-master/. Выполнил парсинг больше половины из требуемых сайтов. В одном из них пришлось парсить через api(Laravel CMS).
 
 mvp проект для Росбанка:
 https://github.com/Krasikoff/Starsmap
+
+добавить функционал аналитики в тг-бот компании qtech и развернуть проект на сервере.
+https://github.com/Krasikoff/...
+
+фитнес-бот: 
+https://github.com/Krasikoff/begin_with_yourself_bot
 
 and more...
 
@@ -65,8 +67,7 @@ and more...
 
 Участвую в проекте fork-а фитнес-бота.
 
-Участвую в проекте компании vink по парсингу (scrapy) сайтов конкурентов. https://github.com/Vink-Masterskaya/vink-master/tree/develop. Выполнил парсинг 4 сайтов. В одном из них пришлось парсить через api(Laravel CMS).
-  
+Участвую в проекте реализации микросервиса интеграции с сервисом TgStat, подписка на услугу.   
 
 ## to be continued ...
 
