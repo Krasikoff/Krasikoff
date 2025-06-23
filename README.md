@@ -50,27 +50,33 @@ Python Developer
 
 ## Предыдущие проекты:
 
-проект компании vink по парсингу (scrapy) сайтов конкурентов, ыполнил парсинг больше половины из требуемых сайтов, в одном из них пришлось парсить через недокументированное api(Laravel CMS):
+проект реализации микросервиса интеграции с тг-канала с подпиской TgStat для компании LeadBurn (fastapi, aiogram).
+https://github.com/Krasikoff/tgstat
+
+проект компании vink по парсингу (scrapy) сайтов конкурентов, выполнил парсинг половины из требуемых сайтов, в одном из них пришлось парсить через недокументированное api(Laravel CMS):
 https://github.com/Vink-Masterskaya/vink-master/
 
-mvp проект для Росбанка:
+mvp проект для Росбанкаd(drf), разработка API:
 https://github.com/Krasikoff/Starsmap
 
-добавить функционал аналитики в тг-бот компании qtech и развернуть проект на сервере:
-https://github.com/Krasikoff/...
+добавить функционал аналитики в тг-бот компании qtech (fastapi, python-telegram-bot):
+https://github.com/Krasikoff/qtech_bot_1
 
-фитнес-бот: 
+фитнес-бот (fastapi, aiogram): 
 https://github.com/Krasikoff/begin_with_yourself_bot
 
 and more...
 
 ## Сейчас работаю над:
 
-участвую в проекте fork-а фитнес-бота,
+участвую в проекте создание сайта для благотворительного фонда «Помоги лично» (django, react)
+https://github.com/OksShubina/Pomogi_lichno_backend
 
-участвую в проекте реализации микросервиса интеграции с подпиской TgStat,
+участвую в проекте fork-а фитнес-бота(aiogram, fastapi),
+
+
+
 
 ## to be continued ...
 
 (наполнение содержимым еще не закончено)
-
