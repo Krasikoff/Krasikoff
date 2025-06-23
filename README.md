@@ -20,7 +20,7 @@ Python Developer
 
 ## Использую технологии:
 
-![](https://img.shields.io/badge/Python-Version:_3.10.13-blue?logo=python&style=plastic) (последняя используемая мной версия)
+![](https://img.shields.io/badge/Python-Version:_3.12.0-blue?logo=python&style=plastic) (последняя используемая мной версия)
 
 ![](https://img.shields.io/badge/Django-006600?logo=python&style=plastic)
 ![](https://img.shields.io/badge/DRF-006600?logo=python&style=plastic)
