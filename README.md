@@ -47,6 +47,13 @@ Python Developer
 ![](https://img.shields.io/badge/CSS-white?logo=python&style=plastic)
 ![](https://img.shields.io/badge/Bootstrap-0033FF?logo=python&style=plastic)
 
+## Сейчас работаю над:
+
+участвую в проекте создание сайта для благотворительного фонда «Помоги лично» (django, react) https://pomogi-lichno.ru/
+https://github.com/OksShubina/Pomogi_lichno_backend
+
+участвую в проекте fork-а фитнес-бота(aiogram, fastapi) https://web.telegram.org/k/#@train2hard_bot
+
 
 ## Предыдущие проекты:
 
@@ -66,13 +73,6 @@ https://github.com/Krasikoff/qtech_bot_1
 https://github.com/Krasikoff/begin_with_yourself_bot
 
 and more...
-
-## Сейчас работаю над:
-
-участвую в проекте создание сайта для благотворительного фонда «Помоги лично» (django, react) https://pomogi-lichno.ru/
-https://github.com/OksShubina/Pomogi_lichno_backend
-
-участвую в проекте fork-а фитнес-бота(aiogram, fastapi),
 
 
 
