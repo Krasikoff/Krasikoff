@@ -69,7 +69,7 @@ and more...
 
 ## Сейчас работаю над:
 
-участвую в проекте создание сайта для благотворительного фонда «Помоги лично» (django, react)
+участвую в проекте создание сайта для благотворительного фонда «Помоги лично» (django, react) https://pomogi-lichno.ru/
 https://github.com/OksShubina/Pomogi_lichno_backend
 
 участвую в проекте fork-а фитнес-бота(aiogram, fastapi),
